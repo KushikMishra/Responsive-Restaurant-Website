@@ -17,10 +17,4 @@ CSS for styling and layout
 JavaScript for dynamic behavior
 <h2>Getting Started</h2>
 To run this project, simply clone or download the repository and open the index.html file in a browser. The website should be fully functional and ready to use.
-Or simply just click on this link https://nikhilraikwar.github.io/restaurant.github.io/
-
-<h2>Contributions</h2>
-This project is open to contributions and suggestions. If you would like to contribute or have any ideas for improvements, feel free to fork the repository and create a pull request.
-
-<h2>Follow for More</h2>
-Don't forget to follow the account for more projects like this!
+Or simply just click on this link https://github.com/KushikMishra
